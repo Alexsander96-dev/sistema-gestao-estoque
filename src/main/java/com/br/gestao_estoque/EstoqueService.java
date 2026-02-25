@@ -1,4 +1,4 @@
-package com.br.estoque_Gold_Pan;
+package com.br.gestao_estoque;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

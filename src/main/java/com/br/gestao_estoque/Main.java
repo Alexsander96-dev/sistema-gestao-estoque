@@ -1,7 +1,6 @@
-package com.br.estoque_Gold_Pan;
+package com.br.gestao_estoque;
 
 import java.util.Scanner;
-import java.util.List;
 
 public class Main {
     public static void main(String[] args){
